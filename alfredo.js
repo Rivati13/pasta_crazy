@@ -1,0 +1,8 @@
+console.log('PASTA ALFREDO')
+console.log('INGREDIENTS')
+console.log('Parmsesan cheese')
+console.log('Pasta')
+console.log('Garlic')
+console.log('Salt')
+console.log('Cream')
+console.log('Butter')
