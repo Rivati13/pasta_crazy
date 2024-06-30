@@ -1,0 +1,7 @@
+console.log('PASTA BOLOGNESA')
+console.log('INGREDIENTS')
+console.log('Parmsesan cheese')
+console.log('Tomatos')
+console.log('Pasta')
+console.log('Garlic')
+console.log('Salt')
